@@ -18,7 +18,19 @@
 
 ---
 
+## 在线访问
+
+**[→ 直接在浏览器打开](https://amzzz007.github.io/disney-osm-map/)**
+
+由 GitHub Pages 托管，无需下载、无需配置：
+
+```
+https://amzzz007.github.io/disney-osm-map/
+```
+
 ## 快速开始
+
+### 本地运行
 
 ```bash
 # 方式一：直接双击
